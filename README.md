@@ -1,16 +1,21 @@
 
 <div align="center">
 
-# Hi, I'm Lucky Odoyi Jeremiah 👋
+# 👋 Hi, I'm Lucky Odoyi Jeremiah
 
-### Data Analyst | Business Analyst | Excel & Power BI Specialist | Founder, Yimex Solutions
+### 📊 Data Analyst | 💼 Business Analyst | ⚙️ Excel & Reporting Specialist
 
-I turn business data into actionable insights and build practical systems that improve reporting, inventory control, accountability, and decision-making.
+**I turn data into insights, simplify business processes, and build practical solutions for better decisions.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-jeremiahlucky--lang-181717?style=for-the-badge&logo=github)](https://github.com/jeremiahlucky-lang)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/jeremiahlucky-lang?tab=repositories&q=excel)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/jeremiahlucky-lang?tab=repositories&q=powerbi)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/jeremiahlucky-lang?tab=repositories&q=sql)
+<a href="https://github.com/jeremiahlucky-lang">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/jeremiah-lucky-37a2351a0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jeremiahluckysurplus@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -18,156 +23,172 @@ I turn business data into actionable insights and build practical systems that i
 
 ## 👨‍💻 About Me
 
-- 📊 Focused on **data analytics, business intelligence, and process improvement**.
-- 📈 Build Excel trackers, dashboards, inventory systems, and management reports.
-- 🗄️ Use SQL and PostgreSQL to explore data, identify trends, and answer business questions.
-- 🧩 Apply business analysis techniques to document requirements, map workflows, and improve processes.
-- 🏢 Founder of **Yimex Solutions** — *Smart Business Systems for Growth & Accountability*.
-- 🎓 HND background in Manufacturing/Mechanical Engineering.
-- 🌍 Based in Nigeria and interested in opportunities that combine data, technology, and business operations.
+I'm a data and business analysis professional in development with an HND background in Manufacturing/Mechanical Engineering. I combine analytical thinking, business understanding, and technical skills to explore data, improve reporting, and identify opportunities for better business performance.
 
-## 🛠️ Tools & Technologies
+My focus is on connecting **data, business processes, and actionable recommendations**.
+
+- 📊 Analyse data to identify trends, patterns, and performance gaps.
+- 📈 Build reports, dashboards, and KPI trackers.
+- 🗄️ Query and analyse structured data using SQL.
+- 📉 Communicate insights through Power BI visualizations.
+- ⚙️ Automate repetitive reporting and spreadsheet workflows.
+- 💼 Apply business analysis techniques to understand requirements and improve processes.
+
+## 🧰 Tools & Technologies
+
+### 📊 Data Analytics & Visualization
+
+<p>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.google.com/sheets/about/"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/></a>
+</p>
+
+### 🗄️ Databases & Querying
+
+<p>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/></a>
+</p>
+
+### ⚙️ Automation & Development
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/"><img src="https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="Excel VBA"/></a>
+  <a href="https://developers.google.com/apps-script"><img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+### 💼 Business Analysis & Collaboration
+
+<p>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
+  <a href="https://miro.com/"><img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038" alt="Miro"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software"><img src="https://img.shields.io/badge/Process%20Mapping-5B5EA6?style=for-the-badge&logo=microsoftvisio&logoColor=white" alt="Process Mapping"/></a>
+</p>
+
+## 📁 Portfolio Projects by Category
+
+Explore my repositories by technical focus. These links filter my GitHub repositories; add the corresponding topics to each repository to improve categorization.
+
+### 1. 📊 Excel & Spreadsheet Solutions
+
+Excel-based reporting, inventory tracking, sales analysis, expense monitoring, KPI dashboards, reconciliation, and spreadsheet automation.
+
+**Skills:** Excel · Formulas · PivotTables · Dashboards · VBA · Reporting
+
+<a href="https://github.com/jeremiahlucky-lang?tab=repositories&q=excel">
+  <img src="https://img.shields.io/badge/Explore%20Excel%20Projects-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Explore Excel projects"/>
+</a>
+
+### 2. 📈 Power BI & Business Intelligence
+
+Interactive dashboards, performance metrics, trend analysis, data visualization, and management reporting.
+
+**Skills:** Power BI · Data Modeling · DAX · KPIs · Visualization
+
+<a href="https://github.com/jeremiahlucky-lang?tab=repositories&q=powerbi">
+  <img src="https://img.shields.io/badge/Explore%20Power%20BI%20Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Explore Power BI projects"/>
+</a>
+
+### 3. 🗄️ SQL & Database Analysis
+
+Structured queries and analysis covering transactions, customer segments, revenue, monthly trends, and operational data.
+
+**Skills:** SQL · PostgreSQL · Joins · Aggregations · Data Analysis
+
+<a href="https://github.com/jeremiahlucky-lang?tab=repositories&q=sql">
+  <img src="https://img.shields.io/badge/Explore%20SQL%20Projects-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Explore SQL projects"/>
+</a>
+
+### 4. 💼 Business Analysis & Process Improvement
+
+Case studies demonstrating business problem definition, stakeholder requirements, process mapping, gap analysis, and recommendations.
+
+**Skills:** Requirements Analysis · Process Mapping · Documentation · Root Cause Analysis
+
+<a href="https://github.com/jeremiahlucky-lang?tab=repositories&q=business-analysis">
+  <img src="https://img.shields.io/badge/Explore%20Business%20Analysis-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Explore business analysis projects"/>
+</a>
+
+### 5. ⚙️ Automation & Business Applications
+
+Spreadsheet automation, Google Sheets solutions, Apps Script workflows, and practical systems for operational reporting.
+
+**Skills:** VBA · Google Apps Script · Workflow Automation · Data Management
+
+<a href="https://github.com/jeremiahlucky-lang?tab=repositories&q=automation">
+  <img src="https://img.shields.io/badge/Explore%20Automation%20Projects-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Explore automation projects"/>
+</a>
+
+### 6. 🐍 Python & Continuous Learning
+
+Practice projects, analytical exercises, and experiments as I continue developing my Python and data analysis capabilities.
+
+**Skills:** Python · Pandas · Data Preparation · Exploratory Analysis
+
+<a href="https://github.com/jeremiahlucky-lang?tab=repositories&q=python">
+  <img src="https://img.shields.io/badge/Explore%20Python%20Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Explore Python projects"/>
+</a>
+
+---
+
+## 🔍 My Analytical Approach
 
 <div align="center">
 
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="55" height="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
-<img src="https://cdn.simpleicons.org/miro/FFD02F" alt="Miro" width="55" height="55"/>
-<img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="55" height="55"/>
-<img src="https://cdn.simpleicons.org/googlesheets/34A853" alt="Google Sheets" width="55" height="55"/>
+| Stage | What I Do |
+|:---|:---|
+| **01 · Understand** | Define the problem and business requirements |
+| **02 · Prepare** | Collect, clean, and organize relevant data |
+| **03 · Analyse** | Identify patterns, trends, and performance gaps |
+| **04 · Communicate** | Present insights through reports and dashboards |
+| **05 · Improve** | Recommend measurable, practical next steps |
 
 </div>
 
-| Area | Tools and Skills |
-|---|---|
-| Data Analysis | Excel, SQL, PostgreSQL |
-| Business Intelligence | Power BI, KPI reporting, dashboards |
-| Spreadsheet Solutions | Inventory tracking, reconciliation, automated reporting |
-| Business Analysis | Requirements gathering, process mapping, user stories, acceptance criteria |
-| Collaboration & Planning | Miro, Jira |
-| Programming | Python — developing analytical skills and projects |
+## 📚 Currently Developing
 
----
+- Advanced Excel reporting and automation.
+- SQL querying and relational database analysis.
+- Power BI dashboard design and data modeling.
+- Business analysis documentation and process modeling.
+- Python for data preparation and exploratory analysis.
 
-## 🚀 Featured Projects
-
-*Selected projects that demonstrate practical business value. Link each project title to its repository once the corresponding repository is published.*
-
-### 1. Excel Business Operations & Inventory System
-**Focus:** Data management, automation, and operational control.
-
-- Organizes daily sales, expenses, and inventory records.
-- Tracks stock levels and supports reorder monitoring.
-- Improves reconciliation and management reporting.
-- Demonstrates practical spreadsheet automation for small businesses.
-
-**Skills:** Microsoft Excel, formulas, data validation, KPI tracking, reporting.
-
-[Explore my Excel repositories](https://github.com/jeremiahlucky-lang?tab=repositories&q=excel)
-
-### 2. Power BI Membership & Attendance Dashboard
-**Focus:** Turning organizational records into useful insights.
-
-- Structures membership and attendance data.
-- Presents attendance trends and key performance indicators.
-- Supports reporting and follow-up decisions.
-- Demonstrates dashboard design and data storytelling.
-
-**Skills:** Power BI, data visualization, KPI reporting, data preparation.
-
-[Explore my Power BI repositories](https://github.com/jeremiahlucky-lang?tab=repositories&q=powerbi)
-
-### 3. SQL Banking Transactions Analysis
-**Focus:** Answering business questions using relational data.
-
-- Analyzes customer segments and transaction activity.
-- Examines revenue patterns and monthly trends.
-- Investigates fee waivers and differences between customer groups.
-- Uses relational tables for structured analysis.
-
-**Skills:** SQL, PostgreSQL, joins, aggregation, grouping, business insights.
-
-[Explore my SQL repositories](https://github.com/jeremiahlucky-lang?tab=repositories&q=sql)
-
-### 4. Business Analysis & Process Improvement Case Study
-**Focus:** Identifying operational problems and translating data into recommendations.
-
-- Examines quality performance, customer claims, scrap/rework, and equipment breakdowns.
-- Organizes findings into a clear problem statement and impact analysis.
-- Identifies areas for further investigation and process improvement.
-- Demonstrates structured analysis and business communication.
-
-**Skills:** Business analysis, root cause analysis, KPI interpretation, process improvement, presentation.
-
-**Note:** The Niger Delta Plastics figures used in this case study are case-study inputs and should not be interpreted as independently verified company results.
-
-[Explore my Business Analysis repositories](https://github.com/jeremiahlucky-lang?tab=repositories&q=business-analysis)
-
-### 5. Yimex Solutions — Business Systems & Reporting Templates
-**Focus:** Practical digital tools for companies, organizations, individuals, and churches.
-
-- Excel-based POS and inventory templates.
-- Sales, expense, and financial reporting tools.
-- KPI trackers and accountability templates.
-- Membership and attendance reporting solutions.
-
-**Skills:** Excel, workflow design, requirements analysis, reporting, solution development.
-
-[Explore my Yimex-related repositories](https://github.com/jeremiahlucky-lang?tab=repositories&q=yimex)
-
----
-
-## 📋 Business Analysis Toolkit
-
-I use or am developing practical skills in:
-
-- **Requirements:** Business needs, functional requirements, user stories, acceptance criteria.
-- **Process documentation:** AS-IS and TO-BE workflows, process maps, gap analysis.
-- **Product delivery:** Backlog organization, task tracking, and collaboration using Jira.
-- **Visual collaboration:** Workflow diagrams, brainstorming, and process mapping using Miro.
-- **Decision support:** KPIs, data analysis, findings, and actionable recommendations.
-
-[Explore my Miro-related repositories](https://github.com/jeremiahlucky-lang?tab=repositories&q=miro) · [Explore my Jira-related repositories](https://github.com/jeremiahlucky-lang?tab=repositories&q=jira)
-
-## 🐍 Python & Continuous Learning
-
-I am building my Python portfolio around practical analytical tasks:
-
-- Data cleaning and preparation.
-- Exploratory data analysis.
-- Sales and inventory analysis.
-- Data visualization and reporting automation.
-
-[Explore my Python repositories](https://github.com/jeremiahlucky-lang?tab=repositories&q=python)
-
-## 💼 Business Impact
-
-My work focuses on helping organizations:
-
-- Reduce manual record-keeping and repetitive reporting.
-- Improve inventory visibility and reconciliation.
-- Monitor KPIs and identify performance trends.
-- Make better decisions with organized data.
-- Improve accountability through structured reporting systems.
-
-## 🏢 Yimex Solutions
-
-**Smart Business Systems for Growth & Accountability**
-
-Yimex Solutions develops practical digital tools and templates to help businesses and organizations manage operations, track performance, and make informed decisions.
-
-## 📬 Connect With Me
-
-- **GitHub:** [jeremiahlucky-lang](https://github.com/jeremiahlucky-lang)
-- **Email:** jeremiahluckysurplus@gmail.com
-- **LinkedIn:** Add your LinkedIn profile URL here.
-
----
+## 📈 GitHub Overview
 
 <div align="center">
 
-*Turning data into insights. Turning business problems into practical solutions.*
+<a href="https://github.com/jeremiahlucky-lang">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeremiahlucky-lang&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/jeremiahlucky-lang">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahlucky-lang&layout=compact&hide_border=true" alt="Most used languages"/>
+</a>
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jeremiah-lucky-37a2351a0/">
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="52" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/jeremiahlucky-lang">
+  <img src="https://img.icons8.com/fluency/96/github.png" width="52" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:jeremiahluckysurplus@gmail.com">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="52" alt="Email"/>
+</a>
+
+**Open to collaboration, data projects, business analysis, and opportunities to solve meaningful problems.**
+
+*Analyse. Understand. Improve. Deliver.*
 
 </div>
